@@ -22,8 +22,7 @@ Pillow>=9.5.0
 # Progress Bar
 tqdm>=4.65.0
 
-# CUDA Support (if using GPU)
-# Uncomment based on your CUDA version:
+# CUDA Support (optional)
+# Sesuaikan dengan versi CUDA Anda jika ingin install versi GPU:
 # torch==2.0.0+cu118 -f https://download.pytorch.org/whl/torch_stable.html
-
 # torchvision==0.15.0+cu118 -f https://download.pytorch.org/whl/torch_stable.html
